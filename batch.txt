@@ -1,0 +1,11 @@
+000|ADRINRES_02|15-11-2017|05-03-2021
+011|MA|00000|56421151|null|null|null
+011|MA|00000|56421151|null|null|null
+011|MA|00000|56421151|null|null|null
+011|MA|00000|56421151|null|null|null
+011|MA|00000|56421151|null|null|null
+011|MA|00000|56421151|null|null|null
+011|MA|00000|56421151|null|null|null
+011|MA|00000|56421151|null|null|null
+011|MA|00000|5642115|null|null|null
+020|9
